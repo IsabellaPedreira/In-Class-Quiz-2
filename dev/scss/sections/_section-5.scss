@@ -2,3 +2,11 @@
     Section 5
 ============= */
 
+#section-5{
+    display: grid;
+    grid-template-columns: 15px auto 15px;
+    grid-template-areas: ". section-5 .";
+    
+    #section-5-content{
+    background-image: url("../img/section-5/Londoner.jpg");
+    background-position: center top;

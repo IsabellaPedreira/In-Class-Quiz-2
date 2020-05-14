@@ -6,7 +6,15 @@
     display: grid;
     grid-template-columns: 15px auto 15px;
     grid-template-areas: ". section-7 .";
+}
     
     #section-7-content{
     background-image: url("../img/section-7/cards-stacked.jpg");
     background-position: center top;
+    }
+
+    #section-7-text{
+        display: grid;
+        grid-template-columns: 10px auto 10px;
+        grid-template-areas: ".section-7-text .";
+        }

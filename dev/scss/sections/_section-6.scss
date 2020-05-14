@@ -6,7 +6,15 @@
     display: grid;
     grid-template-columns: 15px auto 15px;
     grid-template-areas: ". section-6 .";
+}
     
     #section-6-content{
     background-image: url("../img/section-6/Letterpress.jpg");
     background-position: center top;
+    }
+
+#section-6-text{
+    display: grid;
+    grid-template-columns: 10px auto 10px;
+    grid-template-areas: ".section-6-text .";
+    }

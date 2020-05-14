@@ -92,6 +92,14 @@
 		"oAP": "/deploy/index.html",
 		"oF": 0
 		},
+	"/dev/footer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/footer.html",
+		"oF": 0
+		},
 	"/dev/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -339,6 +347,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/dev/scss/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/dev/scss/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,

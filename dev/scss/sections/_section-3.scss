@@ -6,4 +6,13 @@
     display: grid;
     grid-template-columns: auto;
     grid-template-areas: ". section-3 .";
+
+    aside{
+        background-image: url("..img/section-3/pants.jpg");
+        background-size: cover;
+        height: 100vh;
+    }
+
+
+
 }

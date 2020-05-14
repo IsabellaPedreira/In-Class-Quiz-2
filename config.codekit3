@@ -29,6 +29,61 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/deploy/img/section-1/ocean.jpg": {
+		"ft": 16384,
+		"iS": 189807,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-1/ocean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/pants.jpg": {
+		"ft": 16384,
+		"iS": 120121,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/pants.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-5/Londoner.jpg": {
+		"ft": 16384,
+		"iS": 135700,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/Londoner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-6/Letterpress.jpg": {
+		"ft": 16384,
+		"iS": 146717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-6/Letterpress.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-7/cards-stacked.jpg": {
+		"ft": 16384,
+		"iS": 134490,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-7/cards-stacked.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/deploy/index.html": {
 		"cB": 0,
 		"ft": 8192,

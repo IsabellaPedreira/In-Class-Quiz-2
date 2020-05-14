@@ -2,10 +2,16 @@
     Section 1
 ============= */
 #section-1{
-    
+
     background-image: url('../img/section-1/ocean.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 50vh;
+}
+
+#section-1-text{
+    display: grid;
+    grid-template-columns: 10px auto 10px;
+    grid-template-areas: ".section-1-text .";
 }
